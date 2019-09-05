@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/deanvlue/.dotnet/store/|arch|/|tfm|",
+      "/home/deanvlue/.nuget/packages"
+    ]
+  }
+}

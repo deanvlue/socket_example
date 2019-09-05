@@ -1,0 +1,11 @@
+/home/deanvlue/dev/csharp/socket/server/bin/Debug/netcoreapp2.1/server.deps.json
+/home/deanvlue/dev/csharp/socket/server/bin/Debug/netcoreapp2.1/server.runtimeconfig.json
+/home/deanvlue/dev/csharp/socket/server/bin/Debug/netcoreapp2.1/server.runtimeconfig.dev.json
+/home/deanvlue/dev/csharp/socket/server/bin/Debug/netcoreapp2.1/server.dll
+/home/deanvlue/dev/csharp/socket/server/bin/Debug/netcoreapp2.1/server.pdb
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.csprojAssemblyReference.cache
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.csproj.CoreCompileInputs.cache
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.AssemblyInfoInputs.cache
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.AssemblyInfo.cs
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.dll
+/home/deanvlue/dev/csharp/socket/server/obj/Debug/netcoreapp2.1/server.pdb
